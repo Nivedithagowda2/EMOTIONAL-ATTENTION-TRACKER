@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+    <title>Attention Tracker</title>
+</head>
+<body>
+    <h1>Live Attention Tracker</h1>
+    <img src="/video" width="640" height="480">
+    <p>Status: <span id="status">-</span></p>
+    <p>Attention Score: <span id="score">0%</span></p>
+
+    <script>
+        async function updateStats() {
+            let res = await fetch("/stats");
+            let data = await res.json();
+            document.getElementById("score").innerText = data.score + "%";
+            document.getElementById("status").innerText = data.status;
+        }
+
+        setInterval(updateStats, 2000);
+    </script>
+</body>
+</html>
+
+
+
