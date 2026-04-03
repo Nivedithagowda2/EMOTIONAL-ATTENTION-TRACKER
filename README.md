@@ -53,7 +53,7 @@ http://127.0.0.1:5000/
 Niveditha
 GitHub: https://github.com/Nivedithagowda2
 
-⭐ Contribute
+⭐ Contribute.
 
 Want to improve the project?
 Pull requests are welcome!
