@@ -35,10 +35,20 @@ Useful for:
 EMOTIONAL-ATTENTION-TRACKER/
 │
 ├── haarcascades/ # Face & eye detection models
+
+
 ├── templates/ # HTML templates for UI
+
+
 ├── main.py # Flask app entry point
+
+
 ├── tracker.py # Attention/emotion tracking logic
+
+
 ├── utils.py # Helper utilities
+
+
 └── .gitignore # Git ignore rules
 
 2️⃣ Run the app
