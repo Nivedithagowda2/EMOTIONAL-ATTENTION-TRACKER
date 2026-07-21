@@ -51,8 +51,13 @@ EMOTIONAL-ATTENTION-TRACKER/
 
 └── .gitignore # Git ignore rules
 
+
+
+
 2️⃣ Run the app
 python main.py
+
+
 
 3️⃣ Open in browser
 http://127.0.0.1:5000/
