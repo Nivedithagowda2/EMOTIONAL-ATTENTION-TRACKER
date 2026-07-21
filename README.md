@@ -17,6 +17,8 @@ Useful for:
 - Web-based UI (Flask + HTML templates)  
 - Lightweight & fast — runs on CPU  
 - Easy to customize and extend  
+- It gives the percentage how much  student attention span in the class like(90%,80%,10%) 
+
 
 ---
 
