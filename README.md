@@ -34,32 +34,36 @@ Useful for:
 ## 📁 Project Structure
 EMOTIONAL-ATTENTION-TRACKER/
 │
-├── haarcascades/ # Face & eye detection models
+├── haarcascades/      # Face & eye detection models
 
 
-├── templates/ # HTML templates for UI
+├── templates/      # HTML templates for UI
 
 
-├── main.py # Flask app entry point
+├── main.py         # Flask app entry point
 
 
-├── tracker.py # Attention/emotion tracking logic
+├── tracker.py       # Attention/emotion tracking logic
 
 
-├── utils.py # Helper utilities
+├── utils.py           # Helper utilities
 
 
-└── .gitignore # Git ignore rules
+└── .gitignore          # Git ignore rules
 
 
 
 
 2️⃣ Run the app
+
+
 python main.py
 
 
 
 3️⃣ Open in browser
+
+
 http://127.0.0.1:5000/
 
 
