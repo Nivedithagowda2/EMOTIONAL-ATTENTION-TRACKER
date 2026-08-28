@@ -10,7 +10,7 @@ Useful for:
 
 --- 
 
-## 🚀 Features
+## 🚀 Features 
 - Real-time face detection  
 - Eye tracking using Haarcascade  
 - Emotion/attention estimation  
