@@ -8,7 +8,7 @@ Useful for:
 - Human–computer interaction  
 - Behavioral analysis  
 
----
+--- 
 
 ## 🚀 Features
 - Real-time face detection  
