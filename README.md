@@ -6,7 +6,7 @@ Useful for:
 - E-Learning focus monitoring  
 - Workplace attention tracking  
 - Human–computer interaction  
-- Behavioral analysis   
+- Behavioral analysis    
 
 --- 
 
