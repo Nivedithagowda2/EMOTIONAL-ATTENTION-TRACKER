@@ -5,7 +5,7 @@ An AI-powered computer vision application that detects faces and eyes in real ti
 
 ---
 
-##  Features
+##  Features 
 
 -  **Real-Time Eye Detection** — Detect eyes using OpenCV and Haar Cascade classifiers.
 -  **Face Detection** — Identify faces from camera input.
