@@ -22,7 +22,7 @@ Useful for:
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 | Component | Technology |
 |----------|------------|
 | Backend | Python |
@@ -33,7 +33,7 @@ Useful for:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 EMOTIONAL-ATTENTION-TRACKER/
 │
 ├── haarcascades/      # Face & eye detection models
