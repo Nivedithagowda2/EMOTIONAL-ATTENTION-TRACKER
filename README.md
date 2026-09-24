@@ -1,4 +1,4 @@
-# 🎯 Emotional Attention Tracker  
+#  Emotional Attention Tracker  
 Real-time system that detects **face, eyes, and emotional attention level** using **OpenCV, Haarcascades, and Python**.
 
 This project tracks a person’s **focus level** and **emotional engagement** in front of a camera.  
@@ -10,7 +10,7 @@ Useful for:
  
 --- 
 
-## 🚀 Features 
+##  Features 
 - Real-time face detection  
 - Eye tracking using Haarcascade  
 - Emotion/attention estimation  
