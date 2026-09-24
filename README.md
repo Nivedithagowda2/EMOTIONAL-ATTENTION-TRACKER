@@ -5,7 +5,7 @@ This project tracks a person’s **focus level** and **emotional engagement** in
 Useful for:
 - E-Learning focus monitoring  
 - Workplace attention tracking  
-- Human–computer interaction  
+- Human–computer interaction   
 - Behavioral analysis    
  
 --- 
